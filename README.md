@@ -5,4 +5,4 @@
 
 ![image](https://github.com/senonwx/SlidingToast/blob/master/GIF.gif)
 
-其实实现思路很简单，就是用一个textview或者布局来充当toast，在这个layout布局中手势操作触控事件分发，然后给其toast布局设置进去和弹出的动画效果就ok啦。
+其实实现思路很简单，就是用一个textview或者布局来充当toast，在这个layout布局中手势触控事件分发，然后给其toast布局设置进入和退出的动画效果就ok啦。
